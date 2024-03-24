@@ -1,0 +1,8 @@
+name: RandomTeleportPlugin
+version: 1.0
+main: com.thunderpay.RandomTeleportPlugin
+author: TuNombre
+description: Plugin de Minecraft que agrega un sistema de teletransporte aleatorio.
+commands:
+  tpa:
+    description: Teletransporta al jugador a una ubicación aleatoria.
